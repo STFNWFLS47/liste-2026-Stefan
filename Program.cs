@@ -10,7 +10,7 @@ namespace liste_2026_Stefan
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Stefan Rodic");
         }
     }
 }
